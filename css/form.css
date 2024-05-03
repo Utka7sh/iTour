@@ -16,7 +16,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url('../image/bg.png');
+    background: url('../images/home1.png');
     opacity: 2;
     background-size: cover;
     background-position: center;
