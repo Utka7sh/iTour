@@ -1,5 +1,5 @@
 iTour
-- By Utkarsh Upadhyay
+https://utka7sh.github.io/iTour/
 
 Description:
 
